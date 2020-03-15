@@ -1,1 +1,1 @@
-# Pandas_Pratice_Sales_Analysis
+# Pandas_Practice_Sales_Analysis
